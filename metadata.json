@@ -1,9 +1,9 @@
 {
-	"name": "Gnome Shell Extension",
-	"description": "GNOME Shell extension",
-	"uuid": "gnome-extension-template@exposedcat",
-	"settings-schema": "org.gnome.shell.extensions.extension",
+	"name": "SystemD Toggles",
+	"description": "Toggle SystemD services right from the GNOME panel",
+	"uuid": "systemd-toggles@exposedcat",
+	"settings-schema": "org.gnome.shell.extensions.systemd-toggles",
 	"shell-version": [
-		"47"
+		"48"
 	]
 }

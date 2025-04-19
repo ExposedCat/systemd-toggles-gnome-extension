@@ -1,6 +1,6 @@
 {
-	"name": "gnome-shell-extension",
-	"description": "GNOME Shell extension",
+	"name": "systemd-toggles-gnome-extension",
+	"description": "Toggle SystemD services right from the GNOME panel",
 	"version": "1.0.0",
 	"keywords": [],
 	"scripts": {

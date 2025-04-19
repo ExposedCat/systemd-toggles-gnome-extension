@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.systemd-toggles" path="/org/gnome/shell/extensions/systemd-toggles/">
+    <key name="service-list" type="as">
+      <default>['sshd.service', 'NetworkManager.service']</default>
+      <summary>List of systemd services</summary>
+      <description>List of systemd services to display in the panel</description>
+    </key>
+  </schema>
+</schemalist>
